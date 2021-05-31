@@ -64,3 +64,7 @@ For security concerns, please submit an issue [here](https://github.com/Basis-Ca
 
 
 _© Copyright 2020, Basis Cash_
+
+## TODO
+
+BAS Expansionary must consider BAB totalSupply, not only Treasury balance.
